@@ -1,0 +1,30 @@
+
+-----
+Costumer: Guest 95
+
+Head name: Guest 95
+Room: 102
+Booking time: Sun Apr 01 15:59:22 2018
+
+Number of people: 1
+Name: Guest 95   CNIC: 00044-4180239-8   Date of birth: 07-01-30
+-----
+Costumer: Guest 17
+
+Head name: Guest 17
+Room: 108
+Booking time: Sun Apr 01 15:59:22 2018
+
+Number of people: 1
+Name: Guest 17   CNIC: 67751-3646854-1   Date of birth: 16-06-82
+-----
+Costumer: Guest 58
+
+Head name: Guest 58
+Room: 105
+Booking time: Sun Apr 01 15:59:22 2018
+
+Number of people: 3
+Name: Guest 58   CNIC: 83350-5957983-6   Date of birth: 28-02-26
+Name: Guest 84   CNIC: 67361-3106808-0   Date of birth: 29-06-83
+Name: Guest 23   CNIC: 18413-0674193-9   Date of birth: 13-0:-48
