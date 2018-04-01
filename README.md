@@ -1,10 +1,10 @@
 # Hotel Management System
 
-##Installation
+## Installation
 
 Simply run SyedAhsanAhmed02908.cbp to run open project. If you don't have to means to open the project, use exe file to run the project executable.
 
-##Description
+## Description
 Pearl Continental Hotel Rawalpindi requires a hotel management system to support its administration.
 The major features of a hotel are:
  there are three floors numbered 1,2 and 3 each of which has ten rooms
