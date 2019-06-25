@@ -8,6 +8,58 @@ A Hotel Management System simulation that simulates a multi-day business in a ho
 
 Simply run SyedAhsanAhmed02908.cbp to run open project. If you don't have to means to open the project, use exe file to run the project executable.
 
+## Screenshots
+
+<table>
+  <tbody>
+    <tr>
+      <!-- Video 1 -->
+      <td align="center">
+          <img width="390" alt="FamiChat" src="/screenshots/Screenshot%20(697).png">
+          <br>
+      </td>
+      <!-- Video 2 -->
+      <td align="center">
+          <img width="390" alt="FamiChat" src="/screenshots/Screenshot%20(705).png">
+          <br>
+      </td>
+    </tr>    <tr>
+      <!-- Video 1 -->
+      <td align="center">
+          <img width="390" alt="FamiChat" src="/screenshots/Screenshot%20(706).png">
+          <br>
+      </td>
+      <!-- Video 2 -->
+      <td align="center">
+          <img width="390" alt="FamiChat" src="/screenshots/Screenshot%20(711).png">
+          <br>
+      </td>
+    </tr>    <tr>
+      <!-- Video 1 -->
+      <td align="center">
+          <img width="390" alt="FamiChat" src="/screenshots/Screenshot%20(708).png">
+          <br>
+      </td>
+      <!-- Video 2 -->
+      <td align="center">
+          <img width="390" alt="FamiChat" src="/screenshots/Screenshot%20(709).png">
+          <br>
+      </td>
+    </tr>    <tr>
+      <!-- Video 1 -->
+      <td align="center">
+          <img width="390" alt="FamiChat" src="/screenshots/Screenshot%20(710).png">
+          <br>
+      </td>
+      <!-- Video 2 -->
+      <td align="center">
+          <img width="390" alt="FamiChat" src="/screenshots/Screenshot%20(711).png">
+          <br>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
 ## Description
 Pearl Continental Hotel Rawalpindi requires a hotel management system to support its administration.
 The major features of a hotel are:
